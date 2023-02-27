@@ -1,0 +1,4 @@
+enum ActionCardClick {
+  nullAction,
+  openHomeScreen,
+}
